@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SoundSaga</string>
+
+    <string name="paused">Paused</string>
+    <string name="playing">Playing</string>
+    <string name="_0_75x">0.75x</string>
+    <string name="_1_0x">1.0x</string>
+    <string name="_1_1x">1.1x</string>
+    <string name="_1_25x">1.25x</string>
+    <string name="_1_5x">1.5x</string>
+    <string name="_1_75x">1.75x</string>
+    <string name="_2_0x">2.0x</string>
+</resources>
